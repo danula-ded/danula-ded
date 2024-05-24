@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#Поподробнее обо мне можно узнать здесь [Portfolio](https://github.com/danula-ded)
+# Подробнее обо мне можно узнать здесь [Portfolio](https://github.com/danula-ded)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=danula-ded)
 
