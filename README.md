@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="assets/JS_Banner.gif" width="600">
-  <h1>Привет 👋 Меня зовут <span style="color:#F0DB4F">Даниил</span></h1>
+  <img src="./assets/JS_Banner.gif" width="600">
+  <h1>Привет 👋 Меня зовут <span style="color:#f0db4f">Даниил</span></h1>
 </div>
 
 <div align="center">
@@ -14,24 +14,25 @@
   </a>
     <!-- Gmail Badge -->
   <a href="mailto:stupishin1597@yandex.ru" target="_blank">
-    <img src="https://img.shields.io/badge/-Stupishin-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:stupishin1597@yandex.ru" height="25" alt="Gmail Badge"  />
+    <img src="https://img.shields.io/badge/-My Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:stupishin1597@yandex.ru" height="25" alt="Gmail Badge"  />
   </a>
 </div>
 
 <div align="center">
-  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=danula-ded.danula-ded&"  /> -->
-  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=danula-ded.danula-ded&"  />
+
   ## Коротко обо мне
 </div>
 
 - 🌍  Я живу в Москве
 - 📚 Завершил курсы по веб-разработке Яндекс Практикум!
-- 🧠 Сейчас обучаюсь в колледже РАНХИГС и парралельно обучаюсь в школе 21 от Сбера 
+- 🧠 Сейчас обучаюсь на 3-ем курсе в колледже РАНХИГС и парралельно обучаюсь в школе 21 от Сбера 
 - 👨‍💻 Изучаю програмирование на протяжении 3-х лет начиная со средней школы
 
-### Навыки
 
 <div align="center">
+
+  <h2 slyle="">Навыки</h2>
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -64,19 +65,21 @@
 <div align="center">
   <h2>📊 Статистика Github</h2>
 </div>
-<a href="http://www.github.com/danula-ded"><img src="https://github-readme-stats.vercel.app/api?username=danula-ded&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="danula-ded's GitHub stats" /></a>
 
-<a href="http://www.github.com/danula-ded"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danula-ded&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<table>
+	<tbody>
+		<tr>
+			<td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danula-ded&stroke=ffffff&background=transparent&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></td>
+			<td rowspan="2"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danula-ded&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=3382ed&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=transparent" alt="Top Languages" /></td>
+		</tr>
+		<tr>
+			<td><img src="https://github-readme-stats.vercel.app/api?username=danula-ded&show_icons=true&hide=contribs&count_private=true&title_color=facc15&text_color=ffffff&icon_color=3382ed&hide_border=true&show_icons=true&theme=transparent" alt="danula-ded's GitHub stats" /></td>
+		</tr>
+	</tbody>
+</table>
 
-<a href="https://github.com/danula-ded" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danula-ded&theme=transparent&locale=ru&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<!-- Это счетчик фоловеров, когда стану популярным надо будет активировать -->
+
+<!-- TODO: Это счетчик фоловеров, когда стану популярным надо будет активировать -->
 <!-- <a href="https://www.github.com/danula-ded" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/danula-ded?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a> -->
-
-<!-- FIXME: исправить на мой GitHub -->
-<!-- <a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
- -->
