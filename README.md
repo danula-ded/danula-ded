@@ -5,7 +5,7 @@
 <div align="center">
     <!-- TG Badge -->
   <a href="https://t.me/ssilveri" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="TG Badge"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&style=flat&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="TG Badge"  />
   </a>
     <!-- Website Badge -->
   <a href="http://danula-ded.github.io/Portfolio_Resume/" target="_blank">
@@ -13,24 +13,16 @@
   </a>
     <!-- Gmail Badge -->
   <a href="mailto:stupishin1597@yandex.ru" target="_blank">
-    <img src="https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:stupishin1597@yandex.ru" height="25" alt="Gmail Badge"  />
+    <img src="https://img.shields.io/badge/-Stupishin-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:stupishin1597@yandex.ru" height="25" alt="Gmail Badge"  />
   </a>
-
-[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me)
-
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
-
 </div>
-
-
-- ✉️ Для связи со мной [stupishin1597@yandex.ru](mailto:stupishin1597@yandex.ru) 
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=danula-ded.danula-ded&"  />
 </div>
 
 
-# Привет 👋 My name is <span style="color:">Ступишин Даниил</span>
+# Привет 👋 Мое имя <span style="color:#F0DB4F">Даниил</span>
 ## Вот здесь 👉 _[Мое портфолио](http://danula-ded.github.io/Portfolio_Resume/)_
 - 🌍  Я живу в Москве
 - 📚 Завершил курсы по веб-разработке Яндекс Практикум!
@@ -68,20 +60,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vs-code logo"  />
 </div>
-
-### Socials
-
-<p align="left"> 
-    <a href="https://discord.com/users/ded313" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="40" /> </picture> </a>
-    <img width="12" />
-    <a href="https://www.github.com/danula-ded" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="40" /> </picture> </a>
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=" height="40" alt="vk logo"  />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=" height="40" alt="telegram logo"  />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=" height="40" alt="codewars logo"  />
-</p>
 
 ### Badges
 
