@@ -1,14 +1,18 @@
-# Hi there 👋
-
-## Подробнее обо мне можно узнать здесь [Portfolio](https://github.com/danula-ded)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="600">
+</div>
 
 <div align="center">
   <a href="https://www.youtube.com/@tehno.maniak" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://t.me/tehnomaniak07" target="_blank">
+  <a href="https://t.me/ssilveri" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=danula-ded.danula-ded&"  />
 </div>
 
 ###
@@ -17,13 +21,10 @@
 
 ## Front-end разработчик
 
+## 🖥️  See my portfolio at [Мое портфолио](http://danula-ded.github.io/Portfolio_Resume/)
 - 🌍  I'm based in Москве
-- 🖥️  See my portfolio at [Мое портфолио](http://danula-ded.github.io/Portfolio_Resume/)
 - ✉️  You can contact me at [stupishin1597@yandex.ru](mailto:stupishin1597@yandex.ru)
 - 📚 Завершил курсы по веб-разработке Яндекс Практикум!
-
-<a href="https://www.github.com/danula-ded" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/danula-ded?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
