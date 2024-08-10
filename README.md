@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/JS_Banner.gif" width="600">
+  <img src="assets/JS_Banner.gif" width="600">
   <h1>Привет 👋 Меня зовут <span style="color:#f0db4f">Даниил</span></h1>
 </div>
 
