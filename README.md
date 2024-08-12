@@ -72,14 +72,14 @@
   <h2>📊 Статистика Github</h2>
 </div>
 
-<table>
+<table >
 	<tbody>
 		<tr>
-			<td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danula-ded&stroke=ffffff&background=transparent&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></td>
-			<td rowspan="2"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danula-ded&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=3382ed&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=transparent" alt="Top Languages" /></td>
+			<td style="margin:0; padding:0;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danula-ded&stroke=ffffff&background=transparent&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></td>
+			<td style="margin:0; padding:0;" rowspan="2"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danula-ded&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=3382ed&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=transparent" alt="Top Languages" /></td>
 		</tr>
 		<tr>
-			<td><img src="https://github-readme-stats.vercel.app/api?username=danula-ded&show_icons=true&hide=contribs&count_private=true&title_color=facc15&text_color=ffffff&icon_color=3382ed&hide_border=true&show_icons=true&theme=transparent" alt="danula-ded's GitHub stats" /></td>
+			<td style="margin:0; padding:0;"><img src="https://github-readme-stats.vercel.app/api?username=danula-ded&show_icons=true&hide=contribs&count_private=true&title_color=facc15&text_color=ffffff&icon_color=3382ed&hide_border=true&show_icons=true&theme=transparent" alt="danula-ded's GitHub stats" /></td>
 		</tr>
 	</tbody>
 </table>
