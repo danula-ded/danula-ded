@@ -11,7 +11,7 @@
 <div align="center">
     <!-- TG Badge -->
   <a href="https://t.me/ssilveri" target="_blank">
-    <img src="https://img.shields.io/badge/v1?message=Телеграм&logo=telegram&label=&style=flat&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="TG Badge"  />
+    <img src="https://img.shields.io/badge/-Телеграм-2CA5E0?style=flat&logo=telegram&logoColor=white" height="25" alt="TG Badge"  />
 </a>
   </a>
     <!-- Gmail Badge -->
@@ -20,7 +20,7 @@
   </a>
     <!-- VC Badge -->
   <a href="https://vk.com/ssilveria" target="_blank">
-    <img src="https://img.shields.io/badge/v1?message=Вконтакте&logo=vk&label=&style=flat&color=0077ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="VC Badge"  />
+    <img src="https://img.shields.io/badge/-Вконтакте-0077ff?style=flat&logo=vk&logoColor=white" height="25" alt="VC Badge"  />
   </a>
 </div>
 
