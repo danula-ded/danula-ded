@@ -69,24 +69,41 @@
 </div>
 
 <div align="center">
+
   <h2>📊 Статистика Github</h2>
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=danula-ded&stroke=ffffff&background=transparent&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="600" alt="Streak-state" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=danula-ded&show_icons=true&hide=contribs&count_private=true&title_color=facc15&text_color=ffffff&icon_color=3382ed&hide_border=true&show_icons=true&theme=transparent" width="600" alt="danula-ded's GitHub stats" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danula-ded&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&title_color=facc15&text_color=ffffff&icon_color=3382ed&hide_border=true&theme=transparent" width="600" alt="Most Used Languages" />
+      </td>
+    </tr>
+<!-- 
+    <tr>
+      <td>
+        <a href="https://wakatime.com/@ssilveri" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ssilveri&layout=compact&title_color=facc15&text_color=ffffff&icon_color=3382ed&hide_border=true&theme=transparent" width="600" alt="ssilveri's WakaTime stats" />
+        </a>
+      </td>
+    </tr>
+     -->
+  </table>
+
 </div>
 
-<!-- TODO: сделать друг под другом и топ ленгвиджес изменить на гризонтальную тему -->
 
-<table >
-	<tbody>
-		<tr>
-			<td style="margin:0; padding:0;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danula-ded&stroke=ffffff&background=transparent&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></td>
-			<td style="margin:0; padding:0;" rowspan="2"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danula-ded&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=3382ed&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=transparent" alt="Top Languages" /></td>
-		</tr>
-		<tr>
-			<td style="margin:0; padding:0;"><img src="https://github-readme-stats.vercel.app/api?username=danula-ded&show_icons=true&hide=contribs&count_private=true&title_color=facc15&text_color=ffffff&icon_color=3382ed&hide_border=true&show_icons=true&theme=transparent" alt="danula-ded's GitHub stats" /></td>
-		</tr>
-	</tbody>
-</table>
-
-
+<!-- TODO: это счеттчик используемых языков програмирования только в вертикальном варианте
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danula-ded&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=3382ed&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=transparent" alt="Top Languages" /> -->
 
 <!-- TODO: Это счетчик фоловеров, когда стану популярным надо будет активировать -->
 <!-- <a href="https://www.github.com/danula-ded" target="_blank" rel="noreferrer"><img
