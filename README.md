@@ -5,8 +5,8 @@
 
 <div align="center">
     <!-- Website Badge -->
-  <a href="http://danula-ded.github.io/Portfolio_Resume/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-232028?style=flat&logo=Google-Chrome&logoColor=white&link=http://danula-ded.github.io/Portfolio_Resume/" height="40" alt="Website Badge"  />
+  <a href="http://danula-ded.github.io/portfolio_resume/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-232028?style=flat&logo=Google-Chrome&logoColor=white&link=http://danula-ded.github.io/portfolio_resume/" height="40" alt="Website Badge"  />
 </div>
 <div align="center">
     <!-- TG Badge -->
