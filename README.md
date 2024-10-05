@@ -33,8 +33,8 @@
 
 - 🌍 Я живу в Москве
 - 📚 Завершил курсы по веб-разработке Яндекс Практикум!
-- 🧠 Сейчас учусь на 3-ем курсе в колледже РАНХИГС и парралельно обучаюсь в школе 21 от Сбера 
-- 👨‍💻 Изучаю програмирование на протяжении 3-х лет начиная со средней школы
+- 🧠 Сейчас учусь на 3-ем курсе в колледже РАНХИГС и параллельно обучаюсь в школе 21 от Сбера 
+- 👨‍💻 Изучаю программирование на протяжении 3-х лет начиная со средней школы
 
 
 <div align="center">
@@ -78,23 +78,23 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=danula-ded&stroke=ffffff&background=transparent&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="500" alt="Streak-state" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=danula-ded&stroke=5167F0&background=transparent&ring=facc15&fire=facc15&currStreakNum=5167F0&currStreakLabel=facc15&sideNums=51F08C&sideLabels=51F08C&dates=51F08C&hide_border=true" width="500" alt="Streak-state" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=danula-ded&show_icons=true&hide=contribs&count_private=true&title_color=facc15&text_color=ffffff&icon_color=3382ed&hide_border=true&show_icons=true&theme=transparent" width="500" alt="danula-ded's GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=danula-ded&show_icons=true&hide=contribs&count_private=true&title_color=facc15&text_color=5167F0&icon_color=3382ed&hide_border=true&show_icons=true&theme=transparent" width="500" alt="danula-ded's GitHub stats" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danula-ded&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&title_color=facc15&text_color=ffffff&icon_color=3382ed&hide_border=true&theme=transparent" width="500" alt="Most Used Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danula-ded&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&title_color=facc15&text_color=51F08C&icon_color=3382ed&hide_border=true&theme=transparent" width="500" alt="Most Used Languages" />
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://wakatime.com/@ssilveri" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ssilveri&layout=compact&title_color=facc15&text_color=ffffff&icon_color=3382ed&hide_border=true&theme=transparent&range=all_time" width="500" alt="ssilveri's WakaTime stats" />
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ssilveri&layout=compact&title_color=facc15&text_color=5167F0&icon_color=3382ed&hide_border=true&theme=transparent&range=all_time" width="500" alt="ssilveri's WakaTime stats" />
         </a>
       </td>
     </tr>
@@ -104,7 +104,7 @@
 
 
 <!-- TODO: это счетчик используемых языков програмирования только в вертикальном варианте
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danula-ded&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=3382ed&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=transparent" alt="Top Languages" /> -->
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danula-ded&langs_count=10&title_color=facc15&text_color=51F08C&icon_color=3382ed&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=transparent" alt="Top Languages" /> -->
 
 <!-- TODO: Это счетчик фолловеров, когда стану популярным надо будет активировать -->
 <!-- <a href="https://www.github.com/danula-ded" target="_blank" rel="noreferrer"><img
