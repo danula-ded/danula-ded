@@ -78,7 +78,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=danula-ded&stroke=5167F0&background=transparent&ring=facc15&fire=facc15&currStreakNum=5167F0&currStreakLabel=facc15&sideNums=51F08C&sideLabels=51F08C&dates=51F08C&hide_border=true" width="500" alt="Streak-state" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=danula-ded&stroke=5167F0&background=transparent&ring=facc15&fire=facc15&currStreakNum=5167F0&currStreakLabel=facc15&sideNums=51F08C&sideLabels=51F08C&dates=51F08C&hide_border=true" width="500" alt="" />
       </td>
     </tr>
     <tr>
