@@ -26,7 +26,7 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=danula-ded.danula-ded&"  />
-  <a href="https://wakatime.com/@8f3bbcf7-42eb-4b22-8b47-0718bfec47b9"><img src="https://wakatime.com/badge/user/8f3bbcf7-42eb-4b22-8b47-0718bfec47b9.svg" alt="Total time coded since Aug 14 2024" /></a>
+  <a href="https://wakatime.com/@8f3bbcf7-42eb-4b22-8b47-0718bfec47b9"><img src="https://wakatime.com/badge/user/8f3bbcf7-42eb-4b22-8b47-0718bfec47b9.svg" alt="Total time coded" /></a>
   
   ## 😊 Коротко обо мне
 </div>
@@ -34,7 +34,7 @@
 - 🌍 Я живу в Сириусе
 - 📚 Завершил курсы по веб-разработке Яндекс Практикум!
 - 🧠 Сейчас учусь на 3-ем курсе в Научно-технологический университет «Сириус»
-- 👨‍💻 Изучаю программирование на протяжении 4-х лет начиная со средней школы
+- 👨‍💻 Изучаю программирование на протяжении 5-х лет начиная со средней школы
 
 
 <div align="center">
@@ -73,10 +73,13 @@
 
 <div align="center">
 
+  <h2>📊 Статистика LeetCode</h2>
+  
+  <img src="https://leetcard.jacoblin.cool/danula-ded?theme=dark&font=ABeeZee" alt="LeetCode Stats" width="500" />
+  
   <h2>📊 Статистика Github</h2>
 
   <table>
-    <tr>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=danula-ded&stroke=5167F0&background=transparent&ring=facc15&fire=facc15&currStreakNum=5167F0&currStreakLabel=facc15&sideNums=51F08C&sideLabels=51F08C&dates=51F08C&hide_border=true" width="500" alt="" />
       </td>
